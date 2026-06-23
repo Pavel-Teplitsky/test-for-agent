@@ -1,0 +1,67 @@
+
+{
+  "buttons": {
+    "copyLink": "Αντιγραφή συνδέσμου",
+    "copyText": "Αντιγραφή κειμένου",
+    "download": "Λήψη",
+    "uploadDocument": "Μεταφόρτωση εγγράφου",
+    "refresh": "Μεταφόρτωση άλλου αρχείου",
+    "learnMore": "Μάθετε περισσότερα",
+    "saveToDrive": "Αποθήκευση στο Drive",
+    "tryItNow": "Δοκιμάστε τώρα",
+    "pricingInfo": "Πληροφορίες τιμών 111111"
+  },
+  "upload": {
+    "processing": "Επεξεργασία, παρακαλώ περιμένετε...",
+    "coming_soon": "Έρχεται σύντομα",
+    "dran_n_drop": "Σύρετε και εναποθέστε ή κάντε κλικ για επιλογή αρχείων",
+    "max_file_size": "Μέγιστο μέγεθος αρχείου <strong>${file-size-limit}</strong> MB",
+    "privacy": "Κάνοντας κλικ στο κουμπί μεταφόρτωσης ή μεταφορτώνοντας έγγραφο, συμφωνείτε με την <a rel='nofollow noopener' href='https://about.conholdate.app/legal/privacy-policy' class='text-blue-2-500'>Πολιτική Απορρήτου</a> και τους <a rel='nofollow noopener' href='https://about.conholdate.app/legal/tos/ ' class='text-blue-2-500'>Όρους Χρήσης</a> μας",
+    "promo": {
+      "text": "Αποκτήστε περισσότερα με τις συνδρομές <strong>Δωρεάν</strong>, <strong>Βασική</strong> ή <strong>Επαγγελματική</strong>!"
+    }
+  },
+  "result": {
+    "success_h1": "Το αρχείο απεστάλη και επεξεργάστηκε επιτυχώς",
+    "success_h2": "Το αρχείο σας έχει επεξεργαστεί και είναι έτοιμο για λήψη.",
+    "error": "Η μεταφόρτωση και η επεξεργασία του αρχείου απέτυχαν",
+    "fileSent": "Το αρχείο αποστάλθηκε στο",
+    "reuploadTitle": "Μεταφόρτωση άλλου αρχείου",
+    "reuploadDescription": "Επεξεργασία νέου εγγράφου",
+    "feedbackTitle": "Υποβολή σχολίων",
+    "feedbackDescription": "Βοηθήστε μας να βελτιώσουμε τα εργαλείά μας",
+    "feedbackThanks": "Ευχαριστούμε για τα σχόλιά σας!",
+    "contactUsTitle": "Επικοινωνήστε μαζί μας",
+    "contactUsDescription": "Εδώ είμαστε για να σας βοηθήσουμε",
+    "promoTitle": "Εγγραφείτε στο Conholdate Drive σήμερα",
+    "promoText": "Δυναμοποιήστε τη δουλειά σας με το Conholdate Drive — την ολοκληρωμένη λύση cloud για αποθήκευση, επεξεργασία και υπογραφή εγγράφων. Ασφαλές, χωρίς διαφημίσεις και εύκολο στη χρήση. Εγγραφείτε σήμερα και ξεκινήστε δωρεάν.",
+    "promoLink": "Εγγραφείτε τώρα",
+    "fileSaved": "Το αρχείο αποθηκεύτηκε στον αποθηκευτικό χώρο σας",
+    "authorize": "Παρακαλώ πρώτα εξουσιαστείτε στο Drive σας χρησιμοποιώντας αυτόν τον <a target='_blank' rel='nofollow noopener' href='https://drive.conholdate.app/signin' class='text-blue-2-500'>σύνδεσμο</a>"
+  },
+  "titles": {
+    "mostPopular": "Πιο δημοφιλή",
+    "topApps": "Διαδικτυακές εφαρμογές {%s}",
+    "moreApps": "Περισσότερες εφαρμογές",
+    "explore": "Εξερευνήστε άλλες εφαρμογές",
+    "howTo": "Πώς να",
+    "faq": "Συχνές ερωτήσεις",
+    "documentsOnline": "έγγραφα σε online",
+    "apps": "Εφαρμογές",
+    "online": "Σε online",
+    "about": "Σχετικά"
+  },
+  "structuredData": {
+    "videoDesc": "Βίντεο εκπαιδευτικό υλικό για το {%a} {%f}",
+    "howToDesc": "{%a} {%f} δωρεάν με γρήγορη και ασφαλή online επεξεργασία εγγράφων {%p}"
+  },
+  "menuLinks": {
+    "overview": "επισκόπηση",
+    "moreFormats": "περισσότερες μορφές",
+    "moreApps": "περισσότερες εφαρμογές",
+    "howTo": "πώς να",
+    "faq": "Συχνές ερωτήσεις"
+  },
+  "promo": {
+    "title": "Δοκιμάστε το Conholdate Drive",
+    "description": "Ξεκινήστε το ταξίδι σας με το Conholdate Drive δωρεάν και εξερευνήστε ένα καθαρό, χωρίς διαφημίσεις εργαστήριο εργασίας, χτισμένο με διαισθητικό UI/UX που κάνει τη διαχείριση αρχείω

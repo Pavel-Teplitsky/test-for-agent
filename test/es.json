@@ -1,0 +1,146 @@
+
+{
+  "buttons": {
+    "copyLink": "Copiar enlace",
+    "copyText": "Copiar texto",
+    "download": "Descargar",
+    "uploadDocument": "Subir documento",
+    "refresh": "Subir otro archivo",
+    "learnMore": "Más información",
+    "saveToDrive": "Guardar en Drive",
+    "tryItNow": "Probar ahora",
+    "pricingInfo": "Información de precios 111111"
+  },
+  "upload": {
+    "processing": "Procesando, espere por favor...",
+    "coming_soon": "Próximamente",
+    "dran_n_drop": "Arrastrar y soltar o hacer clic para seleccionar archivos",
+    "max_file_size": "Tamaño máximo de archivo <strong>${file-size-limit}</strong> MB",
+    "privacy": "Al hacer clic en el botón de subida o subir un documento, aceptas nuestra <a rel='nofollow noopener' href='https://about.conholdate.app/legal/privacy-policy' class='text-blue-2-500'>Política de privacidad</a> y <a rel='nofollow noopener' href='https://about.conholdate.app/legal/tos/ ' class='text-blue-2-500'>Términos de servicio</a>",
+    "promo": {
+      "text": "¡Obtén más con suscripciones <strong>Gratis</strong>, <strong>Básica</strong> o <strong>Profesional</strong>!"
+    }
+  },
+  "result": {
+    "success_h1": "El archivo se subió y procesó correctamente",
+    "success_h2": "Su archivo ha sido procesado y está listo para descargar.",
+    "error": "Error en la subida y procesamiento del archivo",
+    "fileSent": "El archivo ha sido enviado a",
+    "reuploadTitle": "Subir otro archivo",
+    "reuploadDescription": "Procesar un nuevo documento",
+    "feedbackTitle": "Dejar retroalimentación",
+    "feedbackDescription": "Ayúdanos a mejorar nuestras herramientas",
+    "feedbackThanks": "¡Gracias por dejar retroalimentación!",
+    "contactUsTitle": "Contáctenos",
+    "contactUsDescription": "Estamos aquí para ayudarle",
+    "promoTitle": "Únase a Conholdate Drive hoy mismo",
+    "promoText": "Potencie su trabajo con Conholdate Drive: todo en uno en la nube para almacenar, editar y firmar documentos. Seguro, sin anuncios y fácil de usar. Únase hoy y empiece de forma gratuita.",
+    "promoLink": "Unirse ahora",
+    "fileSaved": "El archivo se ha guardado en su almacenamiento",
+    "authorize": "Primero autorice su cuenta en Drive utilizando este <a target='_blank' rel='nofollow noopener' href='https://drive.conholdate.app/signin' class='text-blue-2-500'>enlace</a>"
+  },
+  "titles": {
+    "mostPopular": "Más populares",
+    "topApps": "Aplicaciones en línea de {%s}",
+    "moreApps": "Más aplicaciones",
+    "explore": "Explorar otras aplicaciones",
+    "howTo": "Cómo hacerlo",
+    "faq": "Preguntas frecuentes",
+    "documentsOnline": "documentos en línea",
+    "apps": "Aplicaciones",
+    "online": "En línea",
+    "about": "Acerca de"
+  },
+  "structuredData": {
+    "videoDesc": "Tutorial en video sobre cómo {%a} {%f}",
+    "howToDesc": "{%a} {%f} gratis con {%p} de documentos en línea rápido y seguro"
+  },
+  "menuLinks": {
+    "overview": "resumen",
+    "moreFormats": "más formatos",
+    "moreApps": "más aplicaciones",
+    "howTo": "cómo hacerlo",
+    "faq": "Preguntas frecuentes"
+  },
+  "promo": {
+    "title": "Probar Conholdate Drive",
+    "description": "Comience su viaje con Conholdate Drive de forma gratuita y explore un espacio de trabajo limpio y sin anuncios, diseñado con una interfaz de usuario intuitiva que hace que la gestión de archivos sea sencilla. Ya sea que necesite lo esencial con nuestro plan Gratis, mayor flexibilidad con la versión Básica o todas las ventajas de las funciones avanzadas de la versión Pro, Conholdate Drive crece junto con sus necesidades, brindándole una experiencia fluida y sin distracciones desde el primer día.",
+    "buttonText": "Más información",
+    "wantMore": "¿Quiere más?"
+  },
+  "products": {
+    "translation": {
+      "selectSourceAndDesitinationLangs": "Seleccionar idiomas de origen y destino",
+      "selectDestenationLangs": "Seleccionar idioma de destino",
+      "pdf": {
+        "experimental": {
+          "title": "Traducción experimental de PDF",
+          "description": "Para traducciones de PDF de mayor calidad, esta opción utiliza un método de procesamiento avanzado que preserva mejor el diseño, el formato y la apariencia visual del documento original. Aunque puede tardar un poco más en completarse, generalmente ofrece resultados más precisos y pulidos, especialmente en PDFs complejos."
+        }
+      }
+    }
+  },
+  "dialogs": {
+    "errors": {
+      "file_empty": {
+        "title": "¡Vaya! Este archivo está vacío.",
+        "sub_title": "El archivo seleccionado no contiene datos (0 bytes).",
+        "text": "Seleccione un archivo que contenga contenido e inténtelo de nuevo."
+      },
+      "file_too_big": {
+        "title": "¡Vaya! Este archivo es demasiado grande.",
+        "sub_title": "Su archivo supera el límite de subida de ${file-size-limit} MB.",
+        "text": "Actualice su plan para subir y procesar archivos más grandes, disfrutar de un rendimiento más rápido, herramientas de IA avanzadas, almacenamiento adicional y funciones mejoradas de compartición."
+      },
+      "daily_operations_limit": {
+        "title": "Límite diario alcanzado.",
+        "sub_title": "Ha alcanzado el límite diario de procesamiento para su plan actual.",
+        "text": "Inténtelo de nuevo mañana o actualice su suscripción para aumentar los límites diarios, desbloquear un procesamiento más rápido, acceso prioritario y almacenamiento adicional."
+      },
+      "connection_failure": {
+        "title": "Se perdió la conexión con el servidor.",
+        "sub_title": "Compruebe su conexión a Internet e inténtelo de nuevo.",
+        "text": "Si el problema persiste, actualice la página e inténtelo de nuevo más tarde."
+      },
+      "timeout": {
+        "title": "El procesamiento está tardando más de lo esperado.",
+        "sub_title": "No se pudo procesar su archivo dentro del tiempo estimado.",
+        "text": "Espere unos minutos e inténtelo de nuevo. Los archivos grandes o complejos pueden requerir tiempo adicional de procesamiento."
+      },
+      "file_damaged": {
+        "title": "El archivo parece estar dañado o corrupto.",
+        "sub_title": "No pudimos leer ni procesar el archivo subido.",
+        "text": "Verifique que el archivo se abra correctamente en su dispositivo e inténtelo de nuevo."
+      },
+      "unsupported_format": {
+        "title": "Formato de archivo no admitido.",
+        "sub_title": "Actualmente este tipo de archivo no está admitido.",
+        "text": "Convierta el archivo a un formato admitido e inténtelo de nuevo."
+      },
+      "empty_file": {
+        "title": "El archivo subido está vacío.",
+        "sub_title": "El archivo seleccionado no contiene ningún dato.",
+        "text": "Elija un archivo válido e inténtelo de nuevo."
+      },
+      "upload_failed": {
+        "title": "Error al subir el archivo.",
+        "sub_title": "No pudimos subir su archivo.",
+        "text": "Inténtelo de nuevo. Si el problema persiste, verifique su conexión a Internet o actualice la página."
+      },
+      "processing_failed": {
+        "title": "Error al procesar el archivo.",
+        "sub_title": "Se produjo un error inesperado durante el procesamiento de su archivo.",
+        "text": "Inténtelo de nuevo más tarde o suba otro archivo."
+      },
+      "default": {
+        "title": "Algo salió mal al procesar su solicitud.",
+        "sub_title": "Hemos notificado a nuestro equipo y está trabajando para solucionar el problema.",
+        "text": "Inténtelo de nuevo más tarde."
+      }
+    },
+    "share": {
+      "title": "Compartir",
+      "link": {
+        "title": "Compartir mediante enlace",
+        "text": "Copiar el enlace del campo o hacer clic en el botón Copiar al portapapeles",
+        "success": "Enlace copiado al port

@@ -1,0 +1,146 @@
+
+{
+  "buttons": {
+    "copyLink": "Copiar link",
+    "copyText": "Copiar texto",
+    "download": "Baixar",
+    "uploadDocument": "Enviar documento",
+    "refresh": "Enviar outro arquivo",
+    "learnMore": "Saiba mais",
+    "saveToDrive": "Salvar no Drive",
+    "tryItNow": "Experimente agora",
+    "pricingInfo": "Informações sobre preços 111111"
+  },
+  "upload": {
+    "processing": "Processando. Aguarde...",
+    "coming_soon": "Em breve",
+    "dran_n_drop": "Arraste e solte ou clique para escolher arquivos",
+    "max_file_size": "Tamanho máximo do arquivo: <strong>${file-size-limit}</strong> MB",
+    "privacy": "Ao clicar no botão de envio ou fazer o upload do documento, você concorda com a nossa <a rel='nofollow noopener' href='https://about.conholdate.app/legal/privacy-policy' class='text-blue-2-500'>Política de Privacidade</a> e <a rel='nofollow noopener' href='https://about.conholdate.app/legal/tos/ ' class='text-blue-2-500'>Termos de Serviço</a>",
+    "promo": {
+      "text": "Obtenha mais com as assinaturas <strong>Grátis</strong>, <strong>Básica</strong> ou <strong>Profissional</strong>!"
+    }
+  },
+  "result": {
+    "success_h1": "Arquivo enviado e processado com sucesso",
+    "success_h2": "Seu arquivo foi processado e está pronto para download.",
+    "error": "Falha no envio e processamento do arquivo",
+    "fileSent": "Arquivo foi enviado para",
+    "reuploadTitle": "Enviar outro arquivo",
+    "reuploadDescription": "Processar um novo documento",
+    "feedbackTitle": "Deixar feedback",
+    "feedbackDescription": "Ajude-nos a aprimorar nossas ferramentas",
+    "feedbackThanks": "Obrigado por deixar seu feedback!",
+    "contactUsTitle": "Fale conosco",
+    "contactUsDescription": "Estamos aqui para ajudar você",
+    "promoTitle": "Junte-se ao Conholdate Drive hoje mesmo",
+    "promoText": "Potencialize seu trabalho com o Conholdate Drive — a solução completa em nuvem para armazenar, editar e assinar documentos. Seguro, livre de anúncios e fácil de usar. Junte-se hoje e comece gratuitamente.",
+    "promoLink": "Juntar-se agora",
+    "fileSaved": "Arquivo salvo em seu armazenamento",
+    "authorize": "Faça login em seu Drive primeiro por meio deste <a target='_blank' rel='nofollow noopener' href='https://drive.conholdate.app/signin' class='text-blue-2-500'>link</a>"
+  },
+  "titles": {
+    "mostPopular": "Mais populares",
+    "topApps": "Aplicativos online de {%s}",
+    "moreApps": "Mais aplicativos",
+    "explore": "Explorar outros aplicativos",
+    "howTo": "Como fazer",
+    "faq": "Perguntas frequentes",
+    "documentsOnline": "documentos online",
+    "apps": "Aplicativos",
+    "online": "Online",
+    "about": "Sobre"
+  },
+  "structuredData": {
+    "videoDesc": "Vídeo tutorial sobre como {%a} {%f}",
+    "howToDesc": "{%a} {%f} gratuitamente com {%p} de documentos online rápido e seguro"
+  },
+  "menuLinks": {
+    "overview": "visão geral",
+    "moreFormats": "mais formatos",
+    "moreApps": "mais aplicativos",
+    "howTo": "como fazer",
+    "faq": "Perguntas frequentes"
+  },
+  "promo": {
+    "title": "Experimente o Conholdate Drive",
+    "description": "Comece sua jornada com o Conholdate Drive gratuitamente e explore um ambiente de trabalho limpo, livre de anúncios, desenvolvido com uma interface UI/UX intuitiva que torna o gerenciamento de arquivos fácil. Seja com a nossa plataforma Grátis com os recursos essenciais, com mais flexibilidade com a Básica ou com todo o poder de recursos avançados no plano Pro, o Conholdate Drive se adapta às suas necessidades — proporcionando uma experiência fluida e livre de distrações desde o primeiro dia.",
+    "buttonText": "Saiba mais",
+    "wantMore": "Quer mais?"
+  },
+  "products": {
+    "translation": {
+      "selectSourceAndDesitinationLangs": "Selecionar idioma de origem -> idioma de destino",
+      "selectDestenationLangs": "Selecionar idioma de destino",
+      "pdf": {
+        "experimental": {
+          "title": "Tradução experimental em PDF",
+          "description": "Para traduções de PDF de maior qualidade, esta opção utiliza um método de processamento avançado que preserva melhor o layout original do documento, o formatação e a aparência visual. Embora possa levar um pouco mais de tempo para ser concluída, geralmente gera resultados mais precisos e polidos, especialmente em PDFs complexos."
+        }
+      }
+    }
+  },
+  "dialogs": {
+    "errors": {
+      "file_empty": {
+        "title": "Ops! Este arquivo está vazio.",
+        "sub_title": "O arquivo selecionado não contém dados (0 bytes).",
+        "text": "Selecione um arquivo com conteúdo e tente novamente."
+      },
+      "file_too_big": {
+        "title": "Ops! Este arquivo é muito grande.",
+        "sub_title": "Seu arquivo excede o limite de upload de ${file-size-limit} MB.",
+        "text": "Atualize seu plano para fazer upload e processar arquivos maiores, desfrutar de desempenho mais rápido, ferramentas avançadas de IA, armazenamento adicional e recursos aprimorados de compartilhamento."
+      },
+      "daily_operations_limit": {
+        "title": "Limite diário atingido.",
+        "sub_title": "Você atingiu o limite diário de processamento do seu plano atual.",
+        "text": "Tente novamente amanhã ou atualize sua assinatura para aumentar os limites diários, desbloquear processamento mais rápido, acesso prioritário e armazenamento extra."
+      },
+      "connection_failure": {
+        "title": "A conexão com o servidor foi perdida.",
+        "sub_title": "Verifique sua conexão à internet e tente novamente.",
+        "text": "Se o problema persistir, atualize a página e tente novamente mais tarde."
+      },
+      "timeout": {
+        "title": "O processamento está levando mais tempo do que o esperado.",
+        "sub_title": "Seu arquivo não pôde ser processado dentro do tempo esperado.",
+        "text": "Aguarde alguns minutos e tente novamente. Arquivos grandes ou complexos podem exigir tempo adicional de processamento."
+      },
+      "file_damaged": {
+        "title": "O arquivo parece estar danificado ou corrompido.",
+        "sub_title": "Não foi possível ler ou processar o arquivo enviado.",
+        "text": "Verifique se o arquivo abre corretamente em seu dispositivo e tente enviá-lo novamente."
+      },
+      "unsupported_format": {
+        "title": "Formato de arquivo não suportado.",
+        "sub_title": "Este tipo de arquivo não é suportado no momento.",
+        "text": "Converta o arquivo para um formato suportado e tente novamente."
+      },
+      "empty_file": {
+        "title": "O arquivo enviado está vazio.",
+        "sub_title": "O arquivo selecionado não contém dados.",
+        "text": "Escolha um arquivo válido e tente novamente."
+      },
+      "upload_failed": {
+        "title": "Falha no envio do arquivo.",
+        "sub_title": "Não foi possível enviar seu arquivo.",
+        "text": "Tente novamente. Se o problema persistir, verifique sua conexão com a internet ou atualize a página."
+      },
+      "processing_failed": {
+        "title": "Falha no processamento do arquivo.",
+        "sub_title": "Ocorreu um erro inesperado durante o processamento do seu arquivo.",
+        "text": "Tente novamente mais tarde ou envie um arquivo diferente."
+      },
+      "default": {
+        "title": "Ocorreu algo errado durante o processamento da sua solicitação.",
+        "sub_title": "Nossa equipe foi notificada e está trabalhando para resolver o problema.",
+        "text": "Tente novamente mais tarde."
+      }
+    },
+    "share": {
+      "title": "Compartilhar",
+      "link": {
+        "title": "Compartilhar via link",
+        "text": "Copie o link da caixa de entrada ou clique no botão copiar para a área de transferência",
+       

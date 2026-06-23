@@ -1,0 +1,100 @@
+{
+  "buttons": {
+    "copyLink": "Link másolása",
+    "copyText": "Szöveg másolása",
+    "download": "Letöltés",
+    "uploadDocument": "Dokumentum feltöltése",
+    "refresh": "Töltsön fel újabb fájlt",
+    "learnMore": "Tudjon meg többet",
+    "saveToDrive": "Mentés a Drive-ba",
+    "tryItNow": "Próbálja ki most",
+    "pricingInfo": "Árazási információk 111111"
+  },
+  "upload": {
+    "processing": "Feldolgozás… Kérjük, várjon...",
+    "coming_soon": "Hamarosan érkezik",
+    "dran_n_drop": "Húzza ide vagy kattintson a fájlok kiválasztásához",
+    "max_file_size": "Max. fájlméret <strong>${file-size-limit}</strong> MB",
+    "privacy": "A feltöltés gombra kattintással vagy dokumentum feltöltésével elfogadja <a rel='nofollow noopener' href='https://about.conholdate.app/legal/privacy-policy' class='text-blue-2-500'>Adatvédelmi szabályzatunkat</a> és <a rel='nofollow noopener' href='https://about.conholdate.app/legal/tos/' class='text-blue-2-500'>Szolgáltatási feltételeinket</a>",
+    "promo": {
+      "text": "Több jut hozzád a <strong>Ingyenes</strong>, <strong>Alap</strong> vagy <strong>Profi</strong> előfizetéssel!"
+    }
+  },
+  "result": {
+    "success_h1": "A fájl sikeresen feltöltésre és feldolgozásra került",
+    "success_h2": "Fájlja feldolgozásra került, és készen áll a letöltésre.",
+    "error": "A fájl feltöltése és feldolgozása sikertelen volt",
+    "fileSent": "Fájl elküldve a következő helyre:",
+    "reuploadTitle": "Töltsön fel újabb fájlt",
+    "reuploadDescription": "Új dokumentum feldolgozása",
+    "feedbackTitle": "Visszajelzés küldése",
+    "feedbackDescription": "Segítsen nekünk az eszközeink fejlesztésében",
+    "feedbackThanks": "Köszönjük visszajelzését!",
+    "contactUsTitle": "Lépjen kapcsolatba velünk",
+    "contactUsDescription": "Itt vagyunk, hogy segítsünk Önnek",
+    "promoTitle": "Csatlakozzon a Conholdate Drive-hoz még ma",
+    "promoText": "Erősítse meg munkáját a Conholdate Drive segítségével — az egyetlen felhőalapú megoldással, amelyben dokumentumokat tárolhat, szerkeszthet és aláírhat. Biztonságos, hirdetések nélküli és könnyen használható. Csatlakozzon még ma, és ingyenesen kezdje el!",
+    "promoLink": "Csatlakozzon most",
+    "fileSaved": "Fájl elmentve a tárolójába",
+    "authorize": "Kérjük, előbb hitelesítse fiókját a Drive-ban ezen <a target='_blank' rel='nofollow noopener' href='https://drive.conholdate.app/signin' class='text-blue-2-500'>link</a> segítségével"
+  },
+  "titles": {
+    "mostPopular": "Legnépszerűbb",
+    "topApps": "{%s} online alkalmazások",
+    "moreApps": "További alkalmazások",
+    "explore": "További alkalmazások megtekintése",
+    "howTo": "Hogyan...",
+    "faq": "GYIK",
+    "documentsOnline": "dokumentumok online",
+    "apps": "Alkalmazások",
+    "online": "Online",
+    "about": "Névjegy"
+  },
+  "structuredData": {
+    "videoDesc": "Videós útmutató a {%a} {%f} elvégzéséhez",
+    "howToDesc": "{%a} {%f} ingyen, gyors és biztonságos online dokumentum {%p} mellett"
+  },
+  "menuLinks": {
+    "overview": "áttekintés",
+    "moreFormats": "további formátumok",
+    "moreApps": "további alkalmazások",
+    "howTo": "hogyan...",
+    "faq": "GYIK"
+  },
+  "promo": {
+    "title": "Próbálja ki a Conholdate Drive-ot",
+    "description": "Kezdje el útját a Conholdate Drive szolgáltatással ingyen, és fedezze fel a tiszta, hirdetések nélküli munkateret, amelyet intuitív UI/UX tervezésű, fájlok kezelése egyszerűvé téve. Akár az ingyenes tervvel alapvető funkciókat, az Alap tervvel több rugalmasságot, akár a Pro tervvel a fejlett funkciók teljes körét is igénybe veheti — a Conholdate Drive Önnek testreszabott, zavartalan élményt nyújt a kezdés napjától kezdve.",
+    "buttonText": "Tudjon meg többet",
+    "wantMore": "További funkciók?"
+  },
+  "products": {
+    "translation": {
+      "selectSourceAndDesitinationLangs": "Válassza ki a forrás- és a célnyelvet",
+      "selectDestenationLangs": "Válassza ki a célnyelvet",
+      "pdf": {
+        "experimental": {
+          "title": "Kísérleti PDF fordítás",
+          "description": "A jobb minőségű PDF fordítások érdekében ez az opció olyan speciális feldolgozási módszert használ, amely jobban megőrzi az eredeti dokumentum elrendezését, formázását és vizuális megjelenését. Habár a befejezéséhez egy kis időt többet vesz igénybe, általában pontosabb és finomabb eredményeket szolgáltat, különösen összetett PDF-ek esetén."
+        }
+      }
+    }
+  },
+  "dialogs": {
+    "errors": {
+      "file_empty": {
+        "title": "Hoppá! Ez a fájl üres.",
+        "sub_title": "A kiválasztott fájl nem tartalmaz adatot (0 bájt).",
+        "text": "Kérjük, válasszon olyan fájlt, amely tartalmaz tartalmat, és próbálja újra."
+      },
+      "file_too_big": {
+        "title": "Hoppá! Ez a fájl túl nagy.",
+        "sub_title": "Fájlja meghaladja a ${file-size-limit} MB-os feltöltési korlátot.",
+        "text": "Frissítse csomagját, hogy nagyobb fájlokat tölthessen fel és feldolgozhasson, élvezzen gyorsabb teljesítményt, fejlett AI eszközöket, plusz tárhelyet és fejlett megosztási funkciókat."
+      },
+      "daily_operations_limit": {
+        "title": "Napi korlát elérve.",
+        "sub_title": "Elérte jelenlegi csomagja napi feldolgozási korlátját.",
+        "text": "Próbálja újra holnap, vagy frissítse előfizetését, hogy növelje a napi korlátokat, nyerjen hozzáférést gyorsabb feldolgozáshoz, prioritásos hozzáféréshez és extra tárhelyhez."
+      },
+      "connection_failure": {
+        "title": "A kapcsolat a sz
