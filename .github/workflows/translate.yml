@@ -141,7 +141,7 @@ jobs:
           echo "$payload"
 
           # Call translation service
-          response=$(curl -s -X POST https://translation.agents.conholdate.dynabic.com/translate \
+          response=$(curl -s -X POST http://translation.agents.conholdate.dynabic.com/translate \
             -H "Content-Type: application/json" \
             -H "X-GitHub-Token: ${{ secrets.TRANSLATION_AGENT_TOKEN }}" \
             -d "$payload")
@@ -155,7 +155,7 @@ jobs:
 
           # Optional polling (wait for translation to finish)
           while true; do
-            status=$(curl -s https://translation.agents.conholdate.dynabic.com/status/$jobId | grep -o '"status":"[^"]*"' | sed 's/"status":"\([^"]*\)"/\1/')
+            status=$(curl -s http://translation.agents.conholdate.dynabic.com/status/$jobId | grep -o '"status":"[^"]*"' | sed 's/"status":"\([^"]*\)"/\1/')
             echo "Job status: $status"
             if [ "$status" = "completed" ]; then
               echo "Translation completed successfully."
