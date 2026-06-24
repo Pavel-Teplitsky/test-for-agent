@@ -1,81 +1,80 @@
-
 {
   "buttons": {
-    "copyLink": "Copiar enlace",
-    "copyText": "Copiar texto",
-    "download": "Descargar",
-    "uploadDocument": "Subir documento",
-    "refresh": "Subir otro archivo",
-    "learnMore": "Más información",
-    "saveToDrive": "Guardar en Drive",
-    "tryItNow": "Probar ahora",
-    "pricingInfo": "Información de precios 111111"
+    "copyLink": "Copy Link",
+    "copyText": "Copy Text",
+    "download": "Download",
+    "uploadDocument": "Upload Document",
+    "refresh": "Upload Another File",
+    "learnMore": "Learn more",
+    "saveToDrive": "Save to Drive",
+    "tryItNow": "Try it Now",
+    "pricingInfo": "Pricing information 111111"
   },
   "upload": {
-    "processing": "Procesando, espere por favor...",
-    "coming_soon": "Próximamente",
-    "dran_n_drop": "Arrastrar y soltar o hacer clic para seleccionar archivos",
-    "max_file_size": "Tamaño máximo de archivo <strong>${file-size-limit}</strong> MB",
-    "privacy": "Al hacer clic en el botón de subida o subir un documento, aceptas nuestra <a rel='nofollow noopener' href='https://about.conholdate.app/legal/privacy-policy' class='text-blue-2-500'>Política de privacidad</a> y <a rel='nofollow noopener' href='https://about.conholdate.app/legal/tos/ ' class='text-blue-2-500'>Términos de servicio</a>",
+    "processing": "Processing Please Wait...",
+    "coming_soon": "Coming soon",
+    "dran_n_drop": "Drag & drop or click to choose files",
+    "max_file_size": "Max. file size <strong>${file-size-limit}</strong> MB",
+    "privacy": "By clicking on upload button or uploading document you are agreeing with our <a rel='nofollow noopener' href='https://about.conholdate.app/legal/privacy-policy' class='text-blue-2-500'>Privacy Policy</a> and <a rel='nofollow noopener' href='https://about.conholdate.app/legal/tos/ ' class='text-blue-2-500'>Terms of Service</a>",
     "promo": {
-      "text": "¡Obtén más con suscripciones <strong>Gratis</strong>, <strong>Básica</strong> o <strong>Profesional</strong>!"
+      "text": "Get more with <strong>Free</strong>, <strong>Basic</strong> or <strong>Professional</strong> subscriptions!"
     }
   },
   "result": {
-    "success_h1": "El archivo se subió y procesó correctamente",
-    "success_h2": "Su archivo ha sido procesado y está listo para descargar.",
-    "error": "Error en la subida y procesamiento del archivo",
-    "fileSent": "El archivo ha sido enviado a",
-    "reuploadTitle": "Subir otro archivo",
-    "reuploadDescription": "Procesar un nuevo documento",
-    "feedbackTitle": "Dejar retroalimentación",
-    "feedbackDescription": "Ayúdanos a mejorar nuestras herramientas",
-    "feedbackThanks": "¡Gracias por dejar retroalimentación!",
-    "contactUsTitle": "Contáctenos",
-    "contactUsDescription": "Estamos aquí para ayudarle",
-    "promoTitle": "Únase a Conholdate Drive hoy mismo",
-    "promoText": "Potencie su trabajo con Conholdate Drive: todo en uno en la nube para almacenar, editar y firmar documentos. Seguro, sin anuncios y fácil de usar. Únase hoy y empiece de forma gratuita.",
-    "promoLink": "Unirse ahora",
-    "fileSaved": "El archivo se ha guardado en su almacenamiento",
-    "authorize": "Primero autorice su cuenta en Drive utilizando este <a target='_blank' rel='nofollow noopener' href='https://drive.conholdate.app/signin' class='text-blue-2-500'>enlace</a>"
+    "success_h1": "File uploaded & processed successfully",
+    "success_h2": "Your file has been processed and is ready to download.",
+    "error": "File upload & processing failed",
+    "fileSent": "File has been sent to",
+    "reuploadTitle": "Upload Another File",
+    "reuploadDescription": "Process a new document",
+    "feedbackTitle": "Leave Feedback",
+    "feedbackDescription": "Help us improve our tools",
+    "feedbackThanks": "Thanks for leaving feedback!",
+    "contactUsTitle": "Contact Us",
+    "contactUsDescription": "We're here to help you",
+    "promoTitle": "Join Conholdate Drive Today",
+    "promoText": "Power your work with Conholdate Drive — the all-in-one cloud for storing, editing, and signing documents. Secure, ad-free, and easy to use. Join today and get started for free.",
+    "promoLink": "Join now",
+    "fileSaved": "File has been saved to your storage",
+    "authorize": "Please authorize to your Drive first using this <a target='_blank' rel='nofollow noopener' href='https://drive.conholdate.app/signin' class='text-blue-2-500'>link</a>"
   },
   "titles": {
-    "mostPopular": "Más populares",
-    "topApps": "Aplicaciones en línea de {%s}",
-    "moreApps": "Más aplicaciones",
-    "explore": "Explorar otras aplicaciones",
-    "howTo": "Cómo hacerlo",
-    "faq": "Preguntas frecuentes",
-    "documentsOnline": "documentos en línea",
-    "apps": "Aplicaciones",
-    "online": "En línea",
-    "about": "Acerca de"
+    "mostPopular": "Most Popular",
+    "topApps": "{%s} Online Apps",
+    "moreApps": "More Apps",
+    "explore": "Explore other apps",
+    "howTo": "How to",
+    "faq": "FAQ",
+    "documentsOnline": "documents online",
+    "apps": "Apps",
+    "online": "Online",
+    "about": "About"
   },
   "structuredData": {
-    "videoDesc": "Tutorial en video sobre cómo {%a} {%f}",
-    "howToDesc": "{%a} {%f} gratis con {%p} de documentos en línea rápido y seguro"
+    "videoDesc": "Video tutorial on how to {%a} {%f}",
+    "howToDesc": "{%a} {%f} for free with fast and secure online document {%p}"
   },
   "menuLinks": {
-    "overview": "resumen",
-    "moreFormats": "más formatos",
-    "moreApps": "más aplicaciones",
-    "howTo": "cómo hacerlo",
-    "faq": "Preguntas frecuentes"
+    "overview": "overview",
+    "moreFormats": "more formats",
+    "moreApps": "more apps",
+    "howTo": "how to",
+    "faq": "FAQ"
   },
   "promo": {
-    "title": "Probar Conholdate Drive",
-    "description": "Comience su viaje con Conholdate Drive de forma gratuita y explore un espacio de trabajo limpio y sin anuncios, diseñado con una interfaz de usuario intuitiva que hace que la gestión de archivos sea sencilla. Ya sea que necesite lo esencial con nuestro plan Gratis, mayor flexibilidad con la versión Básica o todas las ventajas de las funciones avanzadas de la versión Pro, Conholdate Drive crece junto con sus necesidades, brindándole una experiencia fluida y sin distracciones desde el primer día.",
-    "buttonText": "Más información",
-    "wantMore": "¿Quiere más?"
+    "title": "Try Conholdate Drive",
+    "description": "Start your journey with Conholdate Drive for free and explore a clean, ad-free workspace built with an intuitive UI/UX that makes managing files effortless. Whether you need the essentials with our Free plan, more flexibility with Basic, or the full power of advanced features in Pro, Conholdate Drive grows with your needs—giving you a seamless, distraction-free experience from day one.",
+    "buttonText": "Learn more",
+    "wantMore": "Want more?"
   },
   "products": {
     "translation": {
-      "selectSourceAndDesitinationLangs": "Seleccionar idiomas de origen y destino",
-      "selectDestenationLangs": "Seleccionar idioma de destino",
+      "selectSourceAndDesitinationLangs": "Select source -> destination languages",
+      "selectDestenationLangs": "Select destination language",
       "pdf": {
         "experimental": {
-          "title": "Traducción experimental de PDF",
-          "description": "Para traducciones de PDF de mayor calidad, esta opción utiliza un método de procesamiento avanzado que preserva mejor el diseño, el formato y la apariencia visual del documento original. Aunque puede tardar un poco más en completarse, generalmente ofrece resultados más precisos y pulidos, especialmente en PDFs complejos."
+          "title": "Experimental PDF Translation",
+          "description": "For higher-quality PDF translations, this option uses an advanced processing method that better preserves the original document's layout, formatting, and visual appearance. While it may take a bit longer to complete, it usually delivers more accurate and polished results, especially for complex PDFs."
         }
       }
     }
@@ -83,64 +82,81 @@
   "dialogs": {
     "errors": {
       "file_empty": {
-        "title": "¡Vaya! Este archivo está vacío.",
-        "sub_title": "El archivo seleccionado no contiene datos (0 bytes).",
-        "text": "Seleccione un archivo que contenga contenido e inténtelo de nuevo."
+        "title": "Oops! That file is empty.",
+        "sub_title": "The selected file contains no data (0 bytes).",
+        "text": "Please select a file that contains content and try again."
       },
       "file_too_big": {
-        "title": "¡Vaya! Este archivo es demasiado grande.",
-        "sub_title": "Su archivo supera el límite de subida de ${file-size-limit} MB.",
-        "text": "Actualice su plan para subir y procesar archivos más grandes, disfrutar de un rendimiento más rápido, herramientas de IA avanzadas, almacenamiento adicional y funciones mejoradas de compartición."
+        "title": "Oops! That file is too large.",
+        "sub_title": "Your file exceeds the ${file-size-limit} MB upload limit.",
+        "text": "Upgrade your plan to upload and process larger files, enjoy faster performance, advanced AI tools, additional storage and enhanced sharing features."
       },
       "daily_operations_limit": {
-        "title": "Límite diario alcanzado.",
-        "sub_title": "Ha alcanzado el límite diario de procesamiento para su plan actual.",
-        "text": "Inténtelo de nuevo mañana o actualice su suscripción para aumentar los límites diarios, desbloquear un procesamiento más rápido, acceso prioritario y almacenamiento adicional."
+        "title": "Daily limit reached.",
+        "sub_title": "You've reached the daily processing limit for your current plan.",
+        "text": "Please try again tomorrow or upgrade your subscription to increase daily limits, unlock faster processing, priority access and extra storage."
       },
       "connection_failure": {
-        "title": "Se perdió la conexión con el servidor.",
-        "sub_title": "Compruebe su conexión a Internet e inténtelo de nuevo.",
-        "text": "Si el problema persiste, actualice la página e inténtelo de nuevo más tarde."
+        "title": "Connection to the server was lost.",
+        "sub_title": "Please check your internet connection and try again.",
+        "text": "If the problem continues, please refresh the page and try again later."
       },
       "timeout": {
-        "title": "El procesamiento está tardando más de lo esperado.",
-        "sub_title": "No se pudo procesar su archivo dentro del tiempo estimado.",
-        "text": "Espere unos minutos e inténtelo de nuevo. Los archivos grandes o complejos pueden requerir tiempo adicional de procesamiento."
+        "title": "Processing is taking longer than expected.",
+        "sub_title": "Your file could not be processed within the expected time.",
+        "text": "Please wait a few minutes and try again. Large or complex files may require additional processing time."
       },
       "file_damaged": {
-        "title": "El archivo parece estar dañado o corrupto.",
-        "sub_title": "No pudimos leer ni procesar el archivo subido.",
-        "text": "Verifique que el archivo se abra correctamente en su dispositivo e inténtelo de nuevo."
+        "title": "The file appears to be damaged or corrupted.",
+        "sub_title": "We were unable to read or process the uploaded file.",
+        "text": "Please verify that the file opens correctly on your device and try uploading it again."
       },
       "unsupported_format": {
-        "title": "Formato de archivo no admitido.",
-        "sub_title": "Actualmente este tipo de archivo no está admitido.",
-        "text": "Convierta el archivo a un formato admitido e inténtelo de nuevo."
+        "title": "Unsupported file format.",
+        "sub_title": "This file type is currently not supported.",
+        "text": "Please convert the file to a supported format and try again."
       },
       "empty_file": {
-        "title": "El archivo subido está vacío.",
-        "sub_title": "El archivo seleccionado no contiene ningún dato.",
-        "text": "Elija un archivo válido e inténtelo de nuevo."
+        "title": "The uploaded file is empty.",
+        "sub_title": "The selected file does not contain any data.",
+        "text": "Please choose a valid file and try again."
       },
       "upload_failed": {
-        "title": "Error al subir el archivo.",
-        "sub_title": "No pudimos subir su archivo.",
-        "text": "Inténtelo de nuevo. Si el problema persiste, verifique su conexión a Internet o actualice la página."
+        "title": "File upload failed.",
+        "sub_title": "We couldn't upload your file.",
+        "text": "Please try again. If the issue continues, check your internet connection or refresh the page."
       },
       "processing_failed": {
-        "title": "Error al procesar el archivo.",
-        "sub_title": "Se produjo un error inesperado durante el procesamiento de su archivo.",
-        "text": "Inténtelo de nuevo más tarde o suba otro archivo."
+        "title": "File processing failed.",
+        "sub_title": "An unexpected error occurred while processing your file.",
+        "text": "Please try again later or upload a different file."
       },
       "default": {
-        "title": "Algo salió mal al procesar su solicitud.",
-        "sub_title": "Hemos notificado a nuestro equipo y está trabajando para solucionar el problema.",
-        "text": "Inténtelo de nuevo más tarde."
+        "title": "Something went wrong while processing your request.",
+        "sub_title": "Our team has been notified and is working to resolve the issue.",
+        "text": "Please try again later."
       }
     },
     "share": {
-      "title": "Compartir",
+      "title": "Share",
       "link": {
-        "title": "Compartir mediante enlace",
-        "text": "Copiar el enlace del campo o hacer clic en el botón Copiar al portapapeles",
-        "success": "Enlace copiado al port
+        "title": "Share via link",
+        "text": "Copy link from the input or click on copy to clipboard button",
+        "success": "Link copied to clipboard"
+      },
+      "email": {
+        "title": "Share via email",
+        "text": "Shared link will be sent to specified email",
+        "progress": "Sending email. Please wait...",
+        "success": "Email sent successfully!"
+      }
+    },
+    "save_to_drive": {
+      "title": "Save to Drive",
+      "progress": "Uploading file to Conholdate Drive. Please wait...",
+      "success": "File saved successfully in your Drive account.",
+      "go_to_acc": "Go to your <a href='${url}' class='text-blue-2-500'>account</a>",
+      "sign_up": "To save files in your Drive account you need to <a href='${signIn}' class='text-blue-2-500'>signin</a> or <a href='${signUp}' class='text-blue-2-500'>signup</a> first."
+    }
+  }
+}

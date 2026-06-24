@@ -1,1 +1,128 @@
-{"buttons":{"copyLink":"Kopiera länk","copyText":"Kopiera text","download":"Ladda ner","uploadDocument":"Ladda upp dokument","refresh":"Ladda upp en annan fil","learnMore":"Läs mer","saveToDrive":"Spara i Drive","tryItNow":"Prova nu","pricingInfo":"Prisinformation 111111"},"upload":{"processing":"Bearbetar. Vänta...","coming_soon":"Kommer snart","dran_n_drop":"Dra & släpp eller klicka för att välja filer","max_file_size":"Max. filstorlek <strong>${file-size-limit}</strong> MB","privacy":"Genom att klicka på ladda upp-knappen eller ladda upp ett dokument godkänner du vår <a rel='nofollow noopener' href='https://about.conholdate.app/legal/privacy-policy' class='text-blue-2-500'>Integritetspolicy</a> och <a rel='nofollow noopener' href='https://about.conholdate.app/legal/tos/ ' class='text-blue-2-500'>Användarvillkor</a>","promo":{"text":"Få mer med <strong>Gratis</strong>-, <strong>Basic</strong>- eller <strong>Professional</strong>-prenumerationer!"}},"result":{"success_h1":"Fil laddades upp & bearbetades framgångsrikt","success_h2":"Din fil har bearbetats och är redo att laddas ner.","error":"Filuppladdning & bearbetning misslyckades","fileSent":"Filen har skickats till","reuploadTitle":"Ladda upp en annan fil","reuploadDescription":"Bearbeta ett nytt dokument","feedbackTitle":"Lämna återkoppling","feedbackDescription":"Hjälp oss förbättra våra verktyg","feedbackThanks":"Tack för återkopplingen!","contactUsTitle":"Kontakta oss","contactUsDescription":"Här är vi för att hjälpa dig","promoTitle":"Bli medlem i Conholdate Drive idag","promoText":"Stärk din arbetsprocess med Conholdate Drive – den allt-i-ett-molnlösningen för lagring, redigering och signering av dokument. Säker, reklamfri och enkel att använda. Bli medlem idag och kom igång gratis.","promoLink":"Bli medlem nu","fileSaved":"Filen har sparats i ditt lagringsutrymme","authorize":"Godkänn först i ditt Drive-konto via denna <a target='_blank' rel='nofollow noopener' href='https://drive.conholdate.app/signin' class='text-blue-2-500'>länk</a>"},"titles":{"mostPopular":"Mest populärt","topApps":"{%s}-onlineappar","moreApps":"Fler appar","explore":"Utforska fler appar","howTo":"Hur man","faq":"Vanliga frågor","documentsOnline":"dokument online","apps":"Appar","online":"Online","about":"Om oss"},"structuredData":{"videoDesc":"Videoundervisning om hur man {%a} {%f}","howToDesc":"{%a} {%f} gratis med snabb och säker online-dokument{%p}"},"menuLinks":{"overview":"översikt","moreFormats":"fler format","moreApps":"fler appar","howTo":"hur man","faq":"Vanliga frågor"},"promo":{"title":"Prova Conholdate Drive","description":"Kom igång med Conholdate Drive gratis och utforska ett rent, reklamfritt arbetsutrymme som byggts med en intuitiv UI/UX så att filhantering blir ett no-brainer. Oavsett om du behöver grunderna med vår gratisplan, mer flexibilitet med Basic eller full kraft med avancerade funktioner i Pro – Conholdate Drive växer med dina behov och ger dig en sömlös, distraheringsfri upplevelse redan från första dagen.","buttonText":"Läs mer","wantMore":"Vill du ha mer?"},"products":{"translation":{"selectSourceAndDesitinationLangs":"Välj källa -> målspråk","selectDestenationLangs":"Välj målspråk","pdf":{"experimental":{"title":"Experimentell PDF-översättning","description":"För högre kvalitet på PDF-översättningar använder det här alternativet en avancerad bearbetningsmetod som bättre bevarar originaldokumentets layout, formatering och visuella utseende. Även om det kan ta lite längre tid att slutföra, levererar det oftast mer exakta och polerade resultat, särskilt för komplexa PDF-dokument."}}}},"dialogs":{"errors":{"file_empty":{"title":"Oj! Den filen är tom.","sub_title":"Den valda filen innehåller ingen data (0 byte).","text":"Välj en fil som innehåller innehåll och försök igen."},"file_too_big":{"title":"Oj! Den filen är för stor.","sub_title":"Din fil överskrider gränsen på ${file-size-limit} MB för uppladdning.","text":"Uppgradera din prenumeration för att ladda upp och bearbeta större filer, njut av snabbare prestanda, avancerade AI-verktyg, extra lagringsutrymme och förbättrade delningsfunktioner."},"daily_operations_limit":{"title":"Daglig gräns nådd.","sub_title":"Du har nått daglig bearbetningsgräns för din aktuella prenumeration.","text":"Försök igen imorgon eller uppgradera din prenumeration för att höja dagliga gränser, låsa upp snabbare bearbetning, prioriserad åtkomst och extra lagringsutrymme."},"connection_failure":{"title":"Anslutning till servern brakades.","sub_title":"Kontrollera din internetanslutning och försök igen.","text":"Om problemet kvarstår, ladda om sidan och försök igen senare."},"timeout":{"title":"Bearbetningen tar längre tid än förväntat.","sub_title":"Din fil kunde inte bearbetas inom den förväntade tiden.","text":"Vänta några minuter och försök igen. Stora eller komplexa filer kan kräva extra bearbetningstid."},"file_damaged":{"title":"Filen verkar skadad eller korrupt.","sub_title":"Vi kunde inte läsa eller bearbeta den uppladdade filen.","text":"Kontrollera att filen öppnas korrekt på din enhet och försök ladda upp den igen."},"unsupported_format":{"title":"Filer av den typen stöds inte.","sub_title":"Den här filtypen stöds för tillfället inte.","text":"Konvertera filen till ett stödd format och försök igen."},"empty_file":{"title":"Den uppladdade filen är tom.","sub_title":"Den valda filen innehåller ingen data.","text":"Välj en giltig fil och försök igen."},"upload_failed":{"title":"Filuppladdning misslyckades.","sub_title":"Vi kunde inte ladda upp din fil.","text":"Försök igen. Om problemet kvarstår, kontrollera din internetanslutning eller ladda om sidan."},"processing_failed":{"title":"Filbearbetning misslyckades.","sub_title":"Ett oväntat fel uppstod vid bearbetning av din fil.","text":"Försök igen senare eller ladda upp en annan fil."},"default":{"title":"Något gick fel vid bearbetning av din förfrågan.","sub_title":"Vårt team har underrättats och arbetar på att lösa problemet.","text":"Försök igen senare."}},"share":{"title":"Dela","link":{"title":"Dela via länk","text":"Kopiera länken från inmatningsfältet eller klicka på knappen kopiera till urklipp","success":"Länk kopierad till urklipp"},"email":{"title":"Dela via e-post","text":"Delad länk kommer att skickas till angiven e-postadress","progress":"Skickar e-post. Vänta...","success":"E-post skickad!"}},"save_to_drive":{"title":"Spara i Drive","progress":"Laddar upp fil till Conholdate Drive. Vänta...","success":"Filen sparades i ditt Drive-konto.","go_to_acc":"Gå till ditt <a href='${url}' class='text-blue-2-500'>konto</a>","sign_up":"För att spara filer i ditt Drive-konto måste
+
+{
+  "buttons": {
+    "copyLink": "Kopiera länk",
+    "copyText": "Kopiera text",
+    "download": "Ladda ner",
+    "uploadDocument": "Ladda upp dokument",
+    "refresh": "Ladda upp en annan fil",
+    "learnMore": "Lär dig mer",
+    "saveToDrive": "Spara i Drive",
+    "tryItNow": "Prova nu",
+    "pricingInfo": "Prisinformation 111111"
+  },
+  "upload": {
+    "processing": "Bearbetar, vänta...",
+    "coming_soon": "Kommer snart",
+    "dran_n_drop": "Dra & släpp eller klicka för att välja filer",
+    "max_file_size": "Max. filstorlek <strong>${file-size-limit}</strong> MB",
+    "privacy": "Genom att klicka på knappen för uppladdning eller ladda upp ett dokument godkänner du våra <a rel='nofollow noopener' href='https://about.conholdate.app/legal/privacy-policy' class='text-blue-2-500'>Integritetspolicy</a> och <a rel='nofollow noopener' href='https://about.conholdate.app/legal/tos/ ' class='text-blue-2-500'>Användarvillkor</a>",
+    "promo": {
+      "text": "Få mer med <strong>Gratis</strong>-, <strong>Grundläggande</strong>- eller <strong>Professionell</strong>-prenumerationer!"
+    }
+  },
+  "result": {
+    "success_h1": "Filen laddades upp och bearbetades framgångsrikt",
+    "success_h2": "Din fil har bearbetats och är klar att laddas ner.",
+    "error": "Filuppladdning och bearbetning misslyckades",
+    "fileSent": "Filen har skickats till",
+    "reuploadTitle": "Ladda upp en annan fil",
+    "reuploadDescription": "Bearbeta ett nytt dokument",
+    "feedbackTitle": "Lämna feedback",
+    "feedbackDescription": "Hjälp oss att förbättra våra verktyg",
+    "feedbackThanks": "Tack för din feedback!",
+    "contactUsTitle": "Kontakta oss",
+    "contactUsDescription": "Här finns vi för att hjälpa dig",
+    "promoTitle": "Gå med i Conholdate Drive idag",
+    "promoText": "Kraftsätt ditt arbete med Conholdate Drive — den allt-i-ett-molnlösningen för lagring, redigering och signering av dokument. Säker, reklamfri och lättanvänd. Gå med idag och kom igång gratis.",
+    "promoLink": "Gå med nu",
+    "fileSaved": "Filen har sparats i ditt lagringsutrymme",
+    "authorize": "Auktorisera dig först till ditt Drive-konto via den här <a target='_blank' rel='nofollow noopener' href='https://drive.conholdate.app/signin' class='text-blue-2-500'>länken</a>"
+  },
+  "titles": {
+    "mostPopular": "Mest populärt",
+    "topApps": "{%s} Online-appar",
+    "moreApps": "Fler appar",
+    "explore": "Utforska andra appar",
+    "howTo": "Hur man gör",
+    "faq": "Vanliga frågor",
+    "documentsOnline": "dokument online",
+    "apps": "Appar",
+    "online": "Online",
+    "about": "Om"
+  },
+  "structuredData": {
+    "videoDesc": "Videoförklaring om hur man {%a} {%f}",
+    "howToDesc": "{%a} {%f} gratis med snabb och säker online-dokument{%p}"
+  },
+  "menuLinks": {
+    "overview": "Översikt",
+    "moreFormats": "fler format",
+    "moreApps": "fler appar",
+    "howTo": "hur man gör",
+    "faq": "Vanliga frågor"
+  },
+  "promo": {
+    "title": "Prova Conholdate Drive",
+    "description": "Börja din resa med Conholdate Drive gratis och utforska ett rent, reklamfritt arbetsutrymme byggt med en intuitiv UI/UX som gör hantering av filer till ett enkelt grepp. Oavsett om du behöver det nödvändiga med vårGratis-plan, mer flexibilitet med Grundläggande eller full kraft med avancerade funktioner i Pro - Conholdate Drive växer med dina behov och ger dig en sömlös, distractionfri upplevelse redan från dag ett.",
+    "buttonText": "Lär dig mer",
+    "wantMore": "Vill du ha mer?"
+  },
+  "products": {
+    "translation": {
+      "selectSourceAndDesitinationLangs": "Välj källa -> målspråk",
+      "selectDestenationLangs": "Välj målspråk",
+      "pdf": {
+        "experimental": {
+          "title": "Experimentell PDF-översättning",
+          "description": "För högre kvalitet i PDF-översättningar använder detta alternativ en avancerad bearbetningsmetod som bättre bevarar det ursprungliga dokumentets layout, formatering och visuella utseende. Även om det kan ta lite längre tid att slutföra, levererar det oftast mer exakta och polerade resultat, särskilt för komplexa PDF-filer."
+        }
+      }
+    }
+  },
+  "dialogs": {
+    "errors": {
+      "file_empty": {
+        "title": "Oj! Den filen är tom.",
+        "sub_title": "Den valda filen innehåller ingen data (0 byte).",
+        "text": "Välj en fil som innehåller innehåll och försök igen."
+      },
+      "file_too_big": {
+        "title": "Oj! Den filen är för stor.",
+        "sub_title": "Din fil överskrider gränsen på ${file-size-limit} MB för uppladdning.",
+        "text": "Uppgradera din plan för att ladda upp och bearbeta större filer, njut av snabbare prestanda, avancerade AI-verktyg, extra lagringsutrymme och förbättrade delningsfunktioner."
+      },
+      "daily_operations_limit": {
+        "title": "Dagens gräns nådd.",
+        "sub_title": "Du har nått dagliga bearbetningsgränsen för din nuvarande plan.",
+        "text": "Försök igen imorgon eller uppgradera din prenumeration för att höja dagliga gränser, låsa upp snabbare bearbetning, prioriterad tillgång och extra lagringsutrymme."
+      },
+      "connection_failure": {
+        "title": "Anslutningen till servern bröts.",
+        "sub_title": "Kontrollera din internetanslutning och försök igen.",
+        "text": "Om problemet fortsätter, ladda om sidan och försök igen senare."
+      },
+      "timeout": {
+        "title": "Bearbetningen tar längre tid än förväntat.",
+        "sub_title": "Din fil kunde inte bearbetas inom förväntad tid.",
+        "text": "Vänta några minuter och försök igen. Stora eller komplexa filer kan kräva extra bearbetningstid."
+      },
+      "file_damaged": {
+        "title": "Filen verkar skadad eller korrupt.",
+        "sub_title": "Vi kunde inte läsa eller bearbeta den uppladdade filen.",
+        "text": "Kontrollera att filen öppnas korrekt på din enhet och försök ladda upp den igen."
+      },
+      "unsupported_format": {
+        "title": "Filtyp stöds inte.",
+        "sub_title": "Denna filtyp stöds för närvarande inte.",
+        "text": "Konvertera filen till ett stött format och försök igen."
+      },
+      "empty_file": {
+        "title": "Den uppladdade filen är tom.",
+        "sub_title": "Den valda filen innehåller ingen data.",
+        "text": "Välj en giltig fil och försök igen."
+      },
+      "upload_failed": {
+        "title": "Filuppladdning misslyckades.",
+        "sub_title": "Vi kunde inte ladda upp din fil.",
+        "text": "Försök igen. Om problem

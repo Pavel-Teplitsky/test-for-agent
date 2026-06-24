@@ -1,1 +1,162 @@
-{"buttons":{"copyLink":"Bağlantıyı Kopyala","copyText":"Metni Kopyala","download":"İndir","uploadDocument":"Belge Yükle","refresh":"Başka Bir Dosya Yükle","learnMore":"Daha fazla bilgi","saveToDrive":"Drive'da Kaydet","tryItNow":"Hemen Deneyin","pricingInfo":"Fiyatlendirme Bilgileri 111111"},"upload":{"processing":"İşleniyor Lütfen Bekleyin...","coming_soon":"Çok yakında","dran_n_drop":"Dosyaları sürükleyip bırakın veya seçmek için tıklayın","max_file_size":"Maks. dosya boyutu <strong>${file-size-limit}</strong> MB","privacy":"Yükleme düğmesine tıklayarak veya belge yükleyerek <a rel='nofollow noopener' href='https://about.conholdate.app/legal/privacy-policy' class='text-blue-2-500'>Gizlilik Politikası</a>mız ve <a rel='nofollow noopener' href='https://about.conholdate.app/legal/tos/ ' class='text-blue-2-500'>Hizmet Koşulları</a>mız kabul etmiş olursunuz","promo":{"text":"Daha fazlasını <strong>Ücretsiz</strong>, <strong>Temel</strong> veya <strong>Profesyonel</strong> aboneliklerle alın!"}},"result":{"success_h1":"Dosya başarıyla yüklendi ve işlendi","success_h2":"Dosyanız işlendi ve indirmek için hazır.","error":"Dosya yükleme ve işleme başarısız","fileSent":"Dosya şuraya gönderildi","reuploadTitle":"Başka Bir Dosya Yükle","reuploadDescription":"Yeni bir belge işle","feedbackTitle":"Geri Bildirim Verin","feedbackDescription":"Araçlarımızı geliştirmemize yardımcı olun","feedbackThanks":"Geri bildirimde bulunduğunuz için teşekkürler!","contactUsTitle":"Bize Ulaşın","contactUsDescription":"Size yardımcı olmak için buradayız","promoTitle":"Bugün Conholdate Drive’a Katılın","promoText":"Conholdate Drive ile işlerinizi güçlendirin — belgelerinizi depolamanın, düzenlemenin ve imzalamanın tek noktadan gerçekleştiği tümleşik bir bulut. Güvenli, reklamsız ve kullanımı kolay. Hemen bugün katılarak ücretsiz olarak başlayın.","promoLink":"Şimdi katıl","fileSaved":"Dosya depolama alanınıza kaydedildi","authorize":"Lütfen önce Drive'a bağlanmak için bu <a target='_blank' rel='nofollow noopener' href='https://drive.conholdate.app/signin' class='text-blue-2-500'>bağlantıyı</a> kullanarak yetkilendirin"},"titles":{"mostPopular":"En Popüler","topApps":"{%s} Çevrimiçi Uygulamalar","moreApps":"Daha Fazla Uygulama","explore":"Diğer uygulamaları keşfedin","howTo":"Nasıl yapılır","faq":"SSS","documentsOnline":"çevrimiçi belgeler","apps":"Uygulamalar","online":"Çevrimiçi","about":"Hakkında"},"structuredData":{"videoDesc":"Nasıl {%a} {%f} Video eğitim","howToDesc":"Hızlı ve güvenli çevrimiçi belge {%p} ile {%a} {%f}","menuLinks":{"overview":"genel bakış","moreFormats":"daha fazla format","moreApps":"daha fazla uygulama","howTo":"nasıl yapılır","faq":"SSS"},"promo":{"title":"Conholdate Drive’ı Deneyin","description":"Conholdate Drive ile yolculuğunuza ücretsiz olarak başlayın ve kullanıcı dostu UI/UX ile oluşturulan, dosya yönetimini zahmetsizce yapan temiz, reklamsız bir çalışma alanını keşfedin. Ücretsiz planımızla temel işlevlere, Temel planımızla daha fazla esnekliğe veya Pro ile gelişmiş özelliklerin tam gücünün yararlanmak isterseniz, Conholdate Drive ihtiyaçlarınızla birlikte büyür — ilk günden itibaren sorunsuz, dikkat dağıtmayan bir deneyim sunar.","buttonText":"Daha fazla bilgi","wantMore":"Daha fazlasını ister misiniz?"},"products":{"translation":{"selectSourceAndDesitinationLangs":"Kaynak -> hedef dilleri seçin","selectDestenationLangs":"Hedef dili seçin","pdf":{"experimental":{"title":"Deneysel PDF Çevirisi","description":"Daha yüksek kaliteli PDF çeviriler için bu seçenek, orijinal belgenin düzenini, formatını ve görsel görünümünü daha iyi koruyacak gelişmiş bir işleme yöntemi kullanır. Tamamlaması biraz daha uzun sürebilir ancak genellikle daha doğru ve düzgün sonuçlar verir, özellikle karmaşık PDF'ler için."}}}},"dialogs":{"errors":{"file_empty":{"title":"Hata! Bu dosya boş.","sub_title":"Seçilen dosyada herhangi bir veri yoktur (0 bayt).","text":"Lütfen içeriğe sahip bir dosya seçip tekrar deneyin."},"file_too_big":{"title":"Hata! Bu dosya çok büyük.","sub_title":"Dosyanızın boyutu ${file-size-limit} MB yükleme sınırını aşıyor.","text":"Daha büyük dosyaları yükleme ve işleme, daha hızlı performans, gelişmiş yapay zeka araçları, ek depolama alanı ve geliştiriilmiş paylaşım özellikleri için planınızı yükseltin."},"daily_operations_limit":{"title":"Günlük sınırı aşıldı.","sub_title":"Mevcut planınız için günlük işleme sınırınızdı.","text":"Lütfen yarın tekrar deneyin veya günlük sınırları artırmak, daha hızlı işleme, öncelikli erişim ve ek depolama alanı elde etmek için aboneliğinizi yükseltin."},"connection_failure":{"title":"Sunucu bağlantısı kesildi.","sub_title":"Lütfen internet bağlantınızı kontrol edip tekrar deneyin.","text":"Sorun devam ederse lütfen sayfayı yenileyip daha sonra tekrar deneyin."},"timeout":{"title":"İşleme beklenenden daha uzun sürüyor.","sub_title":"Dosyanız beklendiği zaman içinde işlenemedi.","text":"Lütfen birkaç dakika bekleyip tekrar deneyin. Büyük veya karmaşık dosyalar için ek işleme süresi gerekebilir."},"file_damaged":{"title":"Dosya hasarlı veya bozuk görünüyor.","sub_title":"Yüklenen dosyayı okuyamadık veya işleyemedik.","text":"Lütfen dosyanızın cihazınızda düzgün açıldığını doğrulayıp tekrar yüklemeyi deneyin."},"unsupported_format":{"title":"Desteklenmeyen dosya formatı.","sub_title":"Bu dosya türü şu anda desteklenmiyor.","text":"Lütfen dosyayı desteklenen bir formata dönüştürüp tekrar deneyin."},"empty_file":{"title":"Yüklenen dosya boş.","sub_title":"Seçilen dosyada herhangi bir veri yok.","text":"Lütfen geçerli bir dosya seçip tekrar deneyin."},"upload_failed":{"title":"Dosya yükleme başarısız.","sub_title":"Dosyanızı yükleyemedik.","text":"Lütfen tekrar deneyin. Sorun devam ederse internet bağlantınızı kontrol edin veya sayfayı yenileyin."},"processing_failed":{"title":"Dosya işleme başarısız.","sub_title":"Dosyanız işlenirken beklenmeyen bir hata oluştu.","text":"Lütfen daha sonra tekrar deneyin veya farklı bir dosya yükleyin."},"default":{"title":"İsteğiniz işlenirken bir şeyler ters gitti.","sub_title":"Ekibimiz haberdar edildi ve sorunu çözüme kavuşturmaya çalışıyor.","text":"Lütfen daha sonra tekrar deneyin."}},"share":{"title":"Paylaş","link":{"title":"Bağlantı yoluyla paylaş","text":"Bağlantıyı girdi alanından kopyalayın veya panoya kopyala düğmesine tıklayın","success":"Bağlantı panoya kopyalandı"},"email":{"title":"E-posta ile paylaş","text":"Paylaşım bağlantısı belirtilen e-postaya gönderilecek","progress":"E-posta gönderiliyor. Lütfen bekleyin...","success":"
+{
+  "buttons": {
+    "copyLink": "Copy Link",
+    "copyText": "Copy Text",
+    "download": "Download",
+    "uploadDocument": "Upload Document",
+    "refresh": "Upload Another File",
+    "learnMore": "Learn more",
+    "saveToDrive": "Save to Drive",
+    "tryItNow": "Try it Now",
+    "pricingInfo": "Pricing information 111111"
+  },
+  "upload": {
+    "processing": "Processing Please Wait...",
+    "coming_soon": "Coming soon",
+    "dran_n_drop": "Drag & drop or click to choose files",
+    "max_file_size": "Max. file size <strong>${file-size-limit}</strong> MB",
+    "privacy": "By clicking on upload button or uploading document you are agreeing with our <a rel='nofollow noopener' href='https://about.conholdate.app/legal/privacy-policy' class='text-blue-2-500'>Privacy Policy</a> and <a rel='nofollow noopener' href='https://about.conholdate.app/legal/tos/ ' class='text-blue-2-500'>Terms of Service</a>",
+    "promo": {
+      "text": "Get more with <strong>Free</strong>, <strong>Basic</strong> or <strong>Professional</strong> subscriptions!"
+    }
+  },
+  "result": {
+    "success_h1": "File uploaded & processed successfully",
+    "success_h2": "Your file has been processed and is ready to download.",
+    "error": "File upload & processing failed",
+    "fileSent": "File has been sent to",
+    "reuploadTitle": "Upload Another File",
+    "reuploadDescription": "Process a new document",
+    "feedbackTitle": "Leave Feedback",
+    "feedbackDescription": "Help us improve our tools",
+    "feedbackThanks": "Thanks for leaving feedback!",
+    "contactUsTitle": "Contact Us",
+    "contactUsDescription": "We're here to help you",
+    "promoTitle": "Join Conholdate Drive Today",
+    "promoText": "Power your work with Conholdate Drive — the all-in-one cloud for storing, editing, and signing documents. Secure, ad-free, and easy to use. Join today and get started for free.",
+    "promoLink": "Join now",
+    "fileSaved": "File has been saved to your storage",
+    "authorize": "Please authorize to your Drive first using this <a target='_blank' rel='nofollow noopener' href='https://drive.conholdate.app/signin' class='text-blue-2-500'>link</a>"
+  },
+  "titles": {
+    "mostPopular": "Most Popular",
+    "topApps": "{%s} Online Apps",
+    "moreApps": "More Apps",
+    "explore": "Explore other apps",
+    "howTo": "How to",
+    "faq": "FAQ",
+    "documentsOnline": "documents online",
+    "apps": "Apps",
+    "online": "Online",
+    "about": "About"
+  },
+  "structuredData": {
+    "videoDesc": "Video tutorial on how to {%a} {%f}",
+    "howToDesc": "{%a} {%f} for free with fast and secure online document {%p}"
+  },
+  "menuLinks": {
+    "overview": "overview",
+    "moreFormats": "more formats",
+    "moreApps": "more apps",
+    "howTo": "how to",
+    "faq": "FAQ"
+  },
+  "promo": {
+    "title": "Try Conholdate Drive",
+    "description": "Start your journey with Conholdate Drive for free and explore a clean, ad-free workspace built with an intuitive UI/UX that makes managing files effortless. Whether you need the essentials with our Free plan, more flexibility with Basic, or the full power of advanced features in Pro, Conholdate Drive grows with your needs—giving you a seamless, distraction-free experience from day one.",
+    "buttonText": "Learn more",
+    "wantMore": "Want more?"
+  },
+  "products": {
+    "translation": {
+      "selectSourceAndDesitinationLangs": "Select source -> destination languages",
+      "selectDestenationLangs": "Select destination language",
+      "pdf": {
+        "experimental": {
+          "title": "Experimental PDF Translation",
+          "description": "For higher-quality PDF translations, this option uses an advanced processing method that better preserves the original document's layout, formatting, and visual appearance. While it may take a bit longer to complete, it usually delivers more accurate and polished results, especially for complex PDFs."
+        }
+      }
+    }
+  },
+  "dialogs": {
+    "errors": {
+      "file_empty": {
+        "title": "Oops! That file is empty.",
+        "sub_title": "The selected file contains no data (0 bytes).",
+        "text": "Please select a file that contains content and try again."
+      },
+      "file_too_big": {
+        "title": "Oops! That file is too large.",
+        "sub_title": "Your file exceeds the ${file-size-limit} MB upload limit.",
+        "text": "Upgrade your plan to upload and process larger files, enjoy faster performance, advanced AI tools, additional storage and enhanced sharing features."
+      },
+      "daily_operations_limit": {
+        "title": "Daily limit reached.",
+        "sub_title": "You've reached the daily processing limit for your current plan.",
+        "text": "Please try again tomorrow or upgrade your subscription to increase daily limits, unlock faster processing, priority access and extra storage."
+      },
+      "connection_failure": {
+        "title": "Connection to the server was lost.",
+        "sub_title": "Please check your internet connection and try again.",
+        "text": "If the problem continues, please refresh the page and try again later."
+      },
+      "timeout": {
+        "title": "Processing is taking longer than expected.",
+        "sub_title": "Your file could not be processed within the expected time.",
+        "text": "Please wait a few minutes and try again. Large or complex files may require additional processing time."
+      },
+      "file_damaged": {
+        "title": "The file appears to be damaged or corrupted.",
+        "sub_title": "We were unable to read or process the uploaded file.",
+        "text": "Please verify that the file opens correctly on your device and try uploading it again."
+      },
+      "unsupported_format": {
+        "title": "Unsupported file format.",
+        "sub_title": "This file type is currently not supported.",
+        "text": "Please convert the file to a supported format and try again."
+      },
+      "empty_file": {
+        "title": "The uploaded file is empty.",
+        "sub_title": "The selected file does not contain any data.",
+        "text": "Please choose a valid file and try again."
+      },
+      "upload_failed": {
+        "title": "File upload failed.",
+        "sub_title": "We couldn't upload your file.",
+        "text": "Please try again. If the issue continues, check your internet connection or refresh the page."
+      },
+      "processing_failed": {
+        "title": "File processing failed.",
+        "sub_title": "An unexpected error occurred while processing your file.",
+        "text": "Please try again later or upload a different file."
+      },
+      "default": {
+        "title": "Something went wrong while processing your request.",
+        "sub_title": "Our team has been notified and is working to resolve the issue.",
+        "text": "Please try again later."
+      }
+    },
+    "share": {
+      "title": "Share",
+      "link": {
+        "title": "Share via link",
+        "text": "Copy link from the input or click on copy to clipboard button",
+        "success": "Link copied to clipboard"
+      },
+      "email": {
+        "title": "Share via email",
+        "text": "Shared link will be sent to specified email",
+        "progress": "Sending email. Please wait...",
+        "success": "Email sent successfully!"
+      }
+    },
+    "save_to_drive": {
+      "title": "Save to Drive",
+      "progress": "Uploading file to Conholdate Drive. Please wait...",
+      "success": "File saved successfully in your Drive account.",
+      "go_to_acc": "Go to your <a href='${url}' class='text-blue-2-500'>account</a>",
+      "sign_up": "To save files in your Drive account you need to <a href='${signIn}' class='text-blue-2-500'>signin</a> or <a href='${signUp}' class='text-blue-2-500'>signup</a> first."
+    }
+  }
+}
