@@ -82,7 +82,7 @@
     "dialogs" : {
         "errors": {
             "file_empty": {
-                "title": "Oops! That file is empty.",
+                "title": "That file is empty.",
                 "sub_title": "The selected file contains no data (0 bytes).",
                 "text": "Please select a file that contains content and try again."
             },
