@@ -11,7 +11,7 @@
         "pricingInfo": "Pricing information"
     },
     "upload" : {
-        "processing" : "Processing Please Wait...",        
+        "processing" : "Processing Please Wait... 1111",        
         "coming_soon" : "Coming soon",
         "dran_n_drop" : "Drag & drop or click to choose files",
         "max_file_size" : "Max. file size <strong>${file-size-limit}</strong> MB",
