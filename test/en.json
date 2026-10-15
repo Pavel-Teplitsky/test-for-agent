@@ -11,8 +11,9 @@
         "pricingInfo": "Pricing information"
     },
     "upload" : {
-        "processing" : "Processing Please Wait... 1111",        
+        "processing" : "Processing Please Wait...",        
         "coming_soon" : "Coming soon",
+        "some_new_property" : "New value",
         "dran_n_drop" : "Drag & drop or click to choose files",
         "max_file_size" : "Max. file size <strong>${file-size-limit}</strong> MB",
         "privacy" : "By clicking on upload button or uploading document you are agreeing with our <a rel='nofollow noopener' href='https://about.conholdate.app/legal/privacy-policy' class='text-blue-2-500'>Privacy Policy</a> and <a rel='nofollow noopener' href='https://about.conholdate.app/legal/tos/ ' class='text-blue-2-500'>Terms of Service</a>",
