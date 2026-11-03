@@ -23,7 +23,7 @@
     },
     "result" : {
         "success_h1": "File uploaded & processed successfully",
-        "success_h2": "Your file has been processed and is ready to download.",
+        "success_h2": "Your file has been processed and is ready to download. some text here",
         "error": "File upload & processing failed",
         "fileSent" : "File has been sent to",
         "reuploadTitle": "Upload Another File",
